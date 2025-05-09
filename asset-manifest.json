@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rafting_website/static/css/main.282ebb2c.css",
+    "main.js": "/rafting_website/static/js/main.170cfcb3.js",
+    "static/media/camping.jpg": "/rafting_website/static/media/camping.760e8fa4b16bbee5509d.jpg",
+    "static/media/hero.jpg": "/rafting_website/static/media/hero.4da3316d1f43ae6fb77f.jpg",
+    "static/media/trekking.jpg": "/rafting_website/static/media/trekking.36567077a394e2806c9e.jpg",
+    "static/media/taxiservice.jpg": "/rafting_website/static/media/taxiservice.3ed838b16da5d9f40df7.jpg",
+    "static/media/bikerent.jpg": "/rafting_website/static/media/bikerent.84ba40b199b379fb3397.jpg",
+    "static/media/reversejump.jpg": "/rafting_website/static/media/reversejump.3b63b9be51b85d2278ad.jpg",
+    "static/media/hero3.jpg": "/rafting_website/static/media/hero3.4ddd69138bcd3d07be54.jpg",
+    "static/media/flyingfox.jpg": "/rafting_website/static/media/flyingfox.a0e04761b38e534c9b54.jpg",
+    "static/media/rafting.jpg": "/rafting_website/static/media/rafting.cc4255e3781dcad4b0c7.jpg",
+    "static/media/bungeejump.jpg": "/rafting_website/static/media/bungeejump.071a21c7adbd7c0e5c46.jpg",
+    "index.html": "/rafting_website/index.html",
+    "main.282ebb2c.css.map": "/rafting_website/static/css/main.282ebb2c.css.map",
+    "main.170cfcb3.js.map": "/rafting_website/static/js/main.170cfcb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.282ebb2c.css",
+    "static/js/main.170cfcb3.js"
+  ]
+}
