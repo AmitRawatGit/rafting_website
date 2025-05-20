@@ -22,16 +22,16 @@ function Contact() {
                     <div className="contact-detail-item">
                         <FontAwesomeIcon icon={faPhone} className="contact-icon" />
                         <div className="contact-text">
-                            <h3 className="contact-title">Phone : Amit Rawat</h3>
-                            <p>+91 9540763937</p>
-                            <p>+91 9258386513</p>
+                            <h3 className="contact-title">Phone : Sunil Rawat</h3>
+                            <p>+91 7060119530</p>
+                            <p>+91 6005048012</p>
                         </div>
                     </div>
                     <div className="contact-detail-item">
                         <FontAwesomeIcon icon={faEnvelope} className="contact-icon" />
                         <div className="contact-text">
                             <h3 className="contact-title">Email:</h3>
-                            <p>amitrawatcodes@gmail.com</p>
+                            <p>sunilrawat8334@gmail.com</p>
                         </div>
                     </div>
                     <div className="contact-detail-item">
